@@ -216,6 +216,15 @@ position: relative;
   
 }
 
+.example{
+  position: relative;
+  margin-top: 10%;
+   margin-bottom: 10%;
+margin-left: 25%;
+  width:40%; 
+  text-align:center;
+}
+
 /* HTML5 display definitions
    ========================================================================== */
 
